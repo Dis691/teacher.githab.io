@@ -1,5 +1,5 @@
 var i = 0;
-var txt = 'Evgen the best teacher!'; /* The text */
+var txt = 'click me!'; /* The text */
 var speed = 100; /* The speed/duration of the effect in milliseconds */
 
 function typeWriter() {
